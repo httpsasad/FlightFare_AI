@@ -1,3 +1,4 @@
+
 # ✈️ FlightFare AI — Flight Ticket Price Prediction
 
 An end-to-end machine learning project that predicts airline ticket prices from flight attributes such as airline, route, stops, departure/arrival time, class, duration, and days remaining before departure.
